@@ -245,6 +245,11 @@ MonoBehaviour:
   unitMesh: {fileID: 4068373912626513877, guid: 3251cc02b6d814c1f9f39d5a6d57e4a4,
     type: 3}
   unitMaterial: {fileID: 2100000, guid: 75c1d83b189294e6b977af9afcfa44b9, type: 2}
+  gameObjectPrefab: {fileID: 5332622049873598722, guid: 00242df2255a441239cfa8f1026ca21e,
+    type: 3}
+  xSize: 30
+  ySize: 20
+  spacing: 1.1
 --- !u!4 &914795594
 Transform:
   m_ObjectHideFlags: 0
@@ -335,8 +340,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: -0.04368398, y: -0.07127356, z: 0.0031237185, w: -0.9964949}
+  m_LocalPosition: {x: 8.245216, y: 12.981621, z: -21.331799}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
